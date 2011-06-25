@@ -33,7 +33,7 @@
       </p>
     </div>
     <div id="tabs-2" class="tab">
-      <h2>About us/h2>
+      <h2>About us</h2>
       <p>
         We are a local Guildford garage for people who want honest tradesmanship 
         at honest prices.
