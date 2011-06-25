@@ -16,13 +16,6 @@
       <header>
         <h1><?= SITE_NAME ?></h1>
       </header>
-      <nav>
-        <ul>
-          <?= $this->navigation->printNavTier(0) ?>
-        </ul>
-        <div class="cb"></div>
-      </nav>
-
     </div>
     <div class="wrap rounded">
       <section>
