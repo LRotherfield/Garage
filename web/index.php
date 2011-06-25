@@ -9,3 +9,4 @@ if (DBUSER == '')
   require ROOT . '/lib/config/setup.php';
 else
   new Initialise();
+echo 'Luke';
