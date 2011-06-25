@@ -37,11 +37,11 @@ input[type="submit"]{background:#fff;}
 .note{font-size:0.7em;font-style:italic;color:#888;float:right;margin-right:10px;}
 .ui-tabs-hide{display:none;}
 #tabs{background:#ff6700; padding:10px;margin:auto;}
-#tabs .nav{padding:0;}
-#tabs .nav li{float:left;list-style:none;padding:5px;margin:0 10px 0 0;background:#ff8533;font-size:1.3em;}
-#tabs .nav li.ui-state-hover{background:#ff944c;}
-#tabs .nav li.ui-state-active{background:#fff87f;}
-.tab {background:#fff87f;}
+#tabs .nav{padding:0;float:left;width:200px;}
+#tabs .nav li{border:solid 1px #fff87f;float:left;list-style:none;padding:5px;margin:10px 10px 0 0;background:#ff94cc;font-size:1.3em;-moz-border-radius:5px;-webkit-border-radius:5px;}
+#tabs .nav li.ui-state-hover{background:#ffaa60;}
+#tabs .nav li.ui-state-active{background:#ffffff;}
+.tab {background:#ffffff;width:700px;float:left;}
 ol li{list-style:decimal-leading-zero;}
 ul li{list-style:disc;}
 form ol li{list-style:none;}

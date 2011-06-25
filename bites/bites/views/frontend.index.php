@@ -9,7 +9,7 @@
       <li><a href="#tabs-3">Services and MOT's</a></li>
       <li><a href="#tabs-4">Contact us</a></li>
     </ul>
-    <div class="cb"></div>
+    
     <div id="tabs-1" class="tab">
       <h2>Home</h2>
       <img src="/graphic/Nibblecheese.png" title="Nibble Development" alt="Nibble Development" class="logo"/>      
@@ -92,6 +92,7 @@
         mattis sed massa. Fusce a arcu erat, ut suscipit sem. 
         Ut eget fermentum odio. Aenean aliquet accumsan lectus, et mollis diam interdum a.
       </p>
+      <div class="cb"></div>    
     </div>
   </div>
 </div>
