@@ -14,9 +14,9 @@ a{color:#000;}
 h2.odd-even{border:none; margin:0 0 5px 0;padding:5px;}
 
 .wrap{width:960px;margin:auto;}
-.head{border-bottom:solid 1px #aaa; margin-bottom: 20px;background:#eee; width:960px;}
+.head{border-bottom:solid 1px #aaa; margin:auto; margin-bottom: 20px;background:#eee; width:960px;}
 footer{width:960px;margin:auto;border-top:solid 1px #777;}
-.head header{height:200px;font-size:3em;padding:20px 10px 0px 90px;border-bottom:solid 1px #ccc;background: url('/graphic/banner.jpg') no-repeat scroll 10px 0px; color:#555;}
+.head header{height:200px;font-size:3em;padding:20px 10px 0px 200px;border-bottom:solid 1px #ccc;background: url('/graphic/banner.jpg') no-repeat scroll 10px 0px; color:#555;}
 
 h1,h2{border-bottom:solid 1px #777;padding:5px 0px;}
 .head h1{border:none;color:#333;}
