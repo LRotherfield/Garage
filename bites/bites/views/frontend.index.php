@@ -11,8 +11,7 @@
     </ul>
 
     <div id="tabs-1" class="tab">
-      <h2>Home</h2>
-      <img src="/graphic/Nibblecheese.png" title="Nibble Development" alt="Nibble Development" class="logo"/>      
+      <h2>Home</h2>     
       <p>
         Home page Fusce consectetur lectus vitae magna placerat aliquet.
         Ut luctus orci ac dui porta nec viverra mi hendrerit. 
