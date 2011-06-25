@@ -9,7 +9,7 @@
       <li><a href="#tabs-3">Services and MOT's</a></li>
       <li><a href="#tabs-4">Contact us</a></li>
     </ul>
-    
+
     <div id="tabs-1" class="tab">
       <h2>Home</h2>
       <img src="/graphic/Nibblecheese.png" title="Nibble Development" alt="Nibble Development" class="logo"/>      
@@ -76,7 +76,7 @@
       <h2>Contact us</h2>
       <p>
         Get in contact with us
-      Ut luctus orci ac dui porta nec viverra mi hendrerit. 
+        Ut luctus orci ac dui porta nec viverra mi hendrerit. 
         Proin faucibus varius eleifend. Sed dictum posuere placerat. 
         Vestibulum id iaculis arcu. Praesent lacus enim, iaculis ac posuere eget, 
         pharetra in odio. Nulla volutpat ante quis justo tristique sodales. 
@@ -92,7 +92,7 @@
         mattis sed massa. Fusce a arcu erat, ut suscipit sem. 
         Ut eget fermentum odio. Aenean aliquet accumsan lectus, et mollis diam interdum a.
       </p>
-      <div class="cb"></div>    
     </div>
+    <div class="cb"></div> 
   </div>
 </div>
