@@ -10,3 +10,4 @@ if (DBUSER == '')
 else
   new Initialise();
 echo 'hello world';
+echo 'Luke';
