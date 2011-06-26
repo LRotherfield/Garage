@@ -9,7 +9,7 @@ class Actions extends \ActionBase {
     if(isset($_POST['submit']) && $form->validate()){
       
     }
-    $this->form = $form->render;      
+    $this->form = $form->render();      
   }
 
   // 404 function
