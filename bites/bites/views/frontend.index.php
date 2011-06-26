@@ -93,10 +93,9 @@
         Ut eget fermentum odio. Aenean aliquet accumsan lectus, et mollis diam interdum a.
       </p>
     </div>
-    <div id="tabs-1" class="tab">
+    <div id="tabs-5" class="tab">
       <h2>Find us</h2>
       <div id="map_canvas"></div>
-
     </div>
     <div class="cb"></div> 
   </div>
