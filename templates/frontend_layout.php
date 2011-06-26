@@ -4,7 +4,7 @@
     <title><?= $page_title ?></title>
     <?= $this->renderMeta() ?>
     <meta name="google-site-verification" content="Uvdp0pOSmJhWcoMqL_AegxnViphnU3GSL2xl0eTBzok" />
-    <link href='http://fonts.googleapis.com/css?family=Nunito&v1' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Lora&v1' rel='stylesheet' type='text/css'>
     <?= $this->renderScripts() ?>
     <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
