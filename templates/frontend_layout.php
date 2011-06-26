@@ -5,7 +5,7 @@
     <?= $this->renderMeta() ?>
     <meta name="google-site-verification" content="Uvdp0pOSmJhWcoMqL_AegxnViphnU3GSL2xl0eTBzok" />
     <link href='http://fonts.googleapis.com/css?family=Lora&v1' rel='stylesheet' type='text/css'>
-    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=set_to_true_or_false"></script>
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
 
     <?= $this->renderScripts() ?>
     <!--[if lt IE 9]>
