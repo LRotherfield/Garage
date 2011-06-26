@@ -97,7 +97,9 @@ $(document).ready(function () {
     }
   });
   //Start tabs
-  $("#tabs").tabs();
+  $("#tabs").tabs({
+    cookie:{}
+  });
   //Start sortable lists
   $("ul.droptrue").sortable({
     connectWith: 'ul.droptrue',
