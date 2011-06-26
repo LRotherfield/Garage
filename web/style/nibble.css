@@ -64,3 +64,5 @@ input.error{border:1px solid crimson;}
 .notice-item-close {position: absolute;font-size: 1.4em;font-weight: bold;right: 6px;top: 6px;cursor: pointer;}
 
 section{position: relative;}
+
+#map_canvas{width:680px;height:680px;padding:10px;}

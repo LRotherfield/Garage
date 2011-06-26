@@ -8,6 +8,7 @@
       <li><a href="#tabs-2">About us</a></li>
       <li><a href="#tabs-3">Services and MOT's</a></li>
       <li><a href="#tabs-4">Contact us</a></li>
+      <li><a href="#tabs-5">Find us</a></li>
     </ul>
 
     <div id="tabs-1" class="tab">
@@ -91,6 +92,11 @@
         mattis sed massa. Fusce a arcu erat, ut suscipit sem. 
         Ut eget fermentum odio. Aenean aliquet accumsan lectus, et mollis diam interdum a.
       </p>
+    </div>
+    <div id="tabs-1" class="tab">
+      <h2>Find us</h2>
+      <div id="map_canvas"></div>
+
     </div>
     <div class="cb"></div> 
   </div>
