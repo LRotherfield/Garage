@@ -74,24 +74,7 @@
     </div>
     <div id="tabs-4" class="tab">
       <h2>Contact us</h2>
-      <p>
-        Get in contact with us
-        Ut luctus orci ac dui porta nec viverra mi hendrerit. 
-        Proin faucibus varius eleifend. Sed dictum posuere placerat. 
-        Vestibulum id iaculis arcu. Praesent lacus enim, iaculis ac posuere eget, 
-        pharetra in odio. Nulla volutpat ante quis justo tristique sodales. 
-        Curabitur volutpat ligula ut libero porttitor rhoncus. 
-      </p>
-      <p>  
-        Lectus ac lobortis viverra, 
-        leo tortor iaculis ligula, vitae pellentesque ipsum erat id augue. 
-        Integer ipsum sem, interdum sed volutpat nec, porta at ipsum. 
-        Nulla laoreet, orci quis convallis ultricies, diam nibh convallis nisi, 
-        ut dignissim turpis nulla et erat. Lorem ipsum dolor sit amet, 
-        consectetur adipiscing elit. In elit est, molestie porta viverra a, 
-        mattis sed massa. Fusce a arcu erat, ut suscipit sem. 
-        Ut eget fermentum odio. Aenean aliquet accumsan lectus, et mollis diam interdum a.
-      </p>
+      <?= $form ?>
     </div>
     <div id="tabs-5" class="tab">
       <h2>Find us</h2>
