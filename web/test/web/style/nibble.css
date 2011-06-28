@@ -1,0 +1,68 @@
+/*
+Document   : default
+Created on : 18-May-2010, 21:08:22
+Author : Luke Rotherfield
+*/
+/* Reset css */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}:focus{outline:0}ins{text-decoration:none}del{text-decoration:line-through}table{border-collapse:collapse;border-spacing:0}
+header, footer, nav, aside, article, section { display: block; }
+body{font-family: "Lora", Arial, sans-serif;line-height:1.2em;color:#555;font-size:1.2em;}
+a{color:#000;}
+
+.odd-even{background:#dddddd;-moz-border-radius:5px;-webkit-border-radius:5px;}
+.odd-even:hover{background: #cccccc;}
+h2.odd-even{border:none; margin:0 0 5px 0;padding:5px;}
+
+.wrap{width:960px;margin:auto;}
+.head{border-bottom:solid 1px #aaa; margin:auto; margin-bottom: 20px; width:960px;}
+footer{width:960px;margin:auto;border-top:solid 1px #777;}
+.head header{height:300px;font-size:3em;padding:50px 0px 0px 360px;border-bottom:solid 1px #ccc;background: url('/graphic/banner.jpg') no-repeat scroll center left; color:#555;}
+
+h1,h2{border-bottom:solid 1px #777;padding:5px 0px;}
+.head h1{border:none;color:#030;}
+.cb{clear:both;}
+h1,h2,h3,h4,h5,h6{color:#000;}
+p{padding:10px;}
+a{color:#003300;}
+.cb{clear:both;}
+
+form{padding:10px;}
+input, label{display:block;}
+input, select, textarea{background:#efefff;margin-bottom:5px;-moz-border-radius:5px;-webkit-border-radius:5px;border:solid 1px #030; width:600px;}
+input:focus, select:focus, textarea:focus{background:#fff;}
+input[type="submit"]{background:#fff;width:300px;margin:auto;}
+.w-medium{width:50%;}
+.w-small{width:30%;}
+.w-large{width:70%;}
+.note{font-size:0.7em;font-style:italic;color:#888;float:right;margin-right:10px;}
+.ui-tabs-hide{display:none;}
+#tabs{background:#ccc; padding:10px;margin:auto;}
+#tabs .nav{padding:0;float:left;width:200px;}
+#tabs .nav li{border:solid 1px #999;float:left; width:190px; margin-bottom:5px;list-style:none;padding:5px;background:#ccc;-moz-border-radius:5px;-webkit-border-radius:5px;}
+#tabs .nav li.ui-state-hover{background:#eee;}
+#tabs .nav li.ui-state-active{background:#fff;}
+.tab {border:solid 1px #999;background:#fff;width:700px;float:left;padding:10px;margin-left:10px;-moz-border-radius:5px;-webkit-border-radius:5px;}
+ol li{list-style:decimal-leading-zero;}
+ul li{list-style:disc;}
+form ol li{list-style:none;}
+form ul li{list-style:none;}
+ul, ol{padding-left:35px;}
+form ul, ol{padding-left:0px;}
+.message{display:none;}
+blockquote{padding:5px;background:#eee;}
+p.error,label.error{color:crimson;}
+input.error{border:1px solid crimson;}
+.ui-accordion{padding:10px;}
+.toggle{cursor:pointer;text-decoration:underline;}
+
+/* JNotice css */
+.notice-wrap {position: fixed;top: 20px;right: 20px;width: 250px;z-index: 9999;}
+* html .notice-wrap {position: absolute;}
+.notice-item h2{color:#fff;border-bottom:solid 1px #fff;}
+.notice-item p{padding:10px;}
+.notice-item {background: #333;font-size: 0.8em;-moz-border-radius: 6px;-webkit-border-radius: 6px;color: #eee;padding: 6px 6px 0 6px;display: block;position: relative;margin: 0 0 12px 0;}
+.notice-item-close {position: absolute;font-size: 1.4em;font-weight: bold;right: 6px;top: 6px;cursor: pointer;}
+
+section{position: relative;}
+
+#map_canvas{width:680px;height:680px;padding:10px;}
